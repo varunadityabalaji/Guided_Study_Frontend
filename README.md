@@ -1,8 +1,5 @@
 
-# Guided_Study_Frontend
-=======
-=======
->>>>>>> ec2b70e2d3f9616f87e0b8161cf99837bf3d642a
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
