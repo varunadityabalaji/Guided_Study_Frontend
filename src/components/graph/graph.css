@@ -1,0 +1,7 @@
+.linegraph{
+    height: 50%;
+    width: 60%;
+    margin-top: 3%;
+    background-color: beige;
+    display: inline-block; 
+}

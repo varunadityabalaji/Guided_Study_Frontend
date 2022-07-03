@@ -1,0 +1,12 @@
+.stock_details{
+    display: inline-block;
+    height: 60%;
+    width: 30%;
+    vertical-align: middle;
+    margin-left: 3%;
+    margin-bottom: 27%;
+}
+
+h2{
+    color: white;
+}
