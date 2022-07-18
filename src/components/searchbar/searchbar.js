@@ -13,7 +13,7 @@ function SearchBar(props) {
   
   function clickhandler(){
     // props.parent_func({status:'',close_week:[110,90,170,180,190,200,210],open:12.0,close:2.0})
-    fetch(`/predict`,{
+    fetch("https://guided-study-backend.herokuapp.com/predict",{
             'method':'POST',
             'mode': 'cors',
              headers : {
